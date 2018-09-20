@@ -17,13 +17,25 @@
         <link href="css/modern-business.css" rel="stylesheet">
 
     </head>
+        
 
-    <body style="background-color: #2C2A29; color: #FFFFFF;">
+    <style>
+        .footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 60px;
+            line-height: 60px;
+            background-color: #f5f5f5;
+        }
+    </style>
+
+    <body style="background-color: #000000; color: #FFFFFF;">
 
         <!-- Navigation -->
         <nav class="navbar fixed-top navbar-expand-lg navbar-dark fixed-top" style="background-color: #8C2332;">
             <div class="container">
-                <a class="navbar-brand" href="index.html">CAUSE</a>
+                <a class="navbar-brand" href="index.html">Home</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -56,58 +68,19 @@
                 </div>
                 <!-- Contact Details Column -->
                 <div class="col-lg-4 mb-4">
-                    <h3>Contact Details</h3>
-                    <p>400 W 1st St <br>Chico, CA 95929<br></p>
-                    <p><abbr title="Email">E</abbr>:<a href="mailto:name@example.com">name@example.com</a></p>
+                    <h3>Details</h3>
+                    <p>400 W 1st St <br>Butte 503<br>Chico, CA 95929<br></p>
+                    <p><abbr title="Email">E</abbr>:<a href="mailto:causeatchico@gmail.com">causeatchico@gmail.com</a></p>
+                    <p>Join our <a href="https://join.slack.com/t/csu-cause/shared_invite/enQtNDM5MjMwNTkxNjUwLTA3YmQyNTkxYWMxNjcwZTc2MDIyYjFkMzMxNzE5MjhkYjhkMzU1YjdmMTNiZDA3YWEzMTZmZTQ4OGE3ZmQxNGI">Slack</a>!</p>
                 </div>
             </div>
             <!-- /.row -->
-
-            <!-- Contact Form -->
-            <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
-            <div class="row">
-                <div class="col-lg-8 mb-4">
-                    <h3>Send us a Message</h3>
-                    <form name="sentMessage" id="contactForm" novalidate>
-                        <div class="control-group form-group">
-                            <div class="controls">
-                                <label>Full Name:</label>
-                                <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
-                                <p class="help-block"></p>
-                            </div>
-                        </div>
-                        <div class="control-group form-group">
-                            <div class="controls">
-                                <label>Phone Number:</label>
-                                <input type="tel" class="form-control" id="phone" required data-validation-required-message="Please enter your phone number.">
-                            </div>
-                        </div>
-                        <div class="control-group form-group">
-                            <div class="controls">
-                                <label>Email Address:</label>
-                                <input type="email" class="form-control" id="email" required data-validation-required-message="Please enter your email address.">
-                            </div>
-                        </div>
-                        <div class="control-group form-group">
-                            <div class="controls">
-                                <label>Message:</label>
-                                <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
-                            </div>
-                        </div>
-                        <div id="success"></div>
-                        <!-- For success/fail messages -->
-                        <button type="submit" class="btn" style="background-color: #006BA6; color: white;" id="sendMessageButton">Send Message</button>
-                    </form>
-                </div>
-
-            </div>
-            <!-- /.row -->
-
+            
         </div>
         <!-- /.container -->
 
         <!-- Footer -->
-        <footer class="py-5" style="background-color: #8C2332;">
+        <footer class="footer" style="background-color: #8C2332;">
             <div class="container">
                 <p class="m-0 text-center text-white">Copyright &copy; Your Website 2018</p>
             </div>
