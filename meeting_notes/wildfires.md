@@ -73,7 +73,6 @@
     - ***Friday, September 28th*** 
     - ***10am - 2pm**
     - Need people to help out!
- of clothing items and locations to put bins
     - Research
         - AJ and Grant work on compiling research for spreading awareness
         - Gather facts and write reports
