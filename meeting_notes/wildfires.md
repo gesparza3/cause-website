@@ -73,3 +73,58 @@
     - ***Friday, September 28th*** 
     - ***10am - 2pm**
     - Need people to help out!
+ of clothing items and locations to put bins
+    - Research
+        - AJ and Grant work on compiling research for spreading awareness
+        - Gather facts and write reports
+- **Ideas for next month**
+    - Waste
+        - What does it mean?
+        - How can you save money while being sustainable?
+        - AS Sustainability is promoting zero waste for a month
+        - Show accumulation of waste through events
+        - Difference of types of recycling
+            - How often can things be recycled?
+            - How do different items get recycled?
+- **Tabling**
+    - ***Friday, September 28th*** 
+    - ***10am - 2pm***
+    - Need people to help out!
+****
+## Third Meeting Notes
+- **Regarding the monthly project**
+    - Many clothes end up getting wasted due to flood of donations
+    - We want to ensure our efforts are effective
+- **Bake Sale Info**
+    - ***Tuesday, October 2nd***
+    - ***Thursday October 4th***
+        - This one will be at Round Table
+        - A portion of their profits will go to our cause!
+    - CASH ONLY $$$
+    - Get a donation jar
+
+- **Weekend Bakeoff**
+    - This weekend we'll all need to work on making some goods for the event
+    - ***Who's making what***
+        - `Thomas`
+            - *Cookies(15)*
+            - *Banana Bread(3 loaves)*
+        - `Sierra`
+            - *Vegan something?...(10)*
+            - *Something else(10)*
+        - `Paige`
+            - *Chocolate muffins(24)*
+            - *Granola(6 cups)*
+        - `AJ`
+            - *Brownies(12)*
+        - `Spencer`
+            - *Rice crispsies(15ish)*
+        - `Will`
+            - *Cookies(a lot)*
+- **Tabling**
+    - We need to start recuiting new people!
+    - ***Friday September 28th: Trinity Commons***
+    - Need volunteers! Check Slack for availability
+- **Next Week**
+    - Come with your own information about waste/recycling
+    - Focus this month is on *physical items* rather than energy(next month)
