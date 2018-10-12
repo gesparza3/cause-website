@@ -73,4 +73,24 @@
       - Four bins
       - Trash items from the BMU
       - Where do they go?
-- 
+- **Monthly Project**
+  - Zero Waste
+    - Straw Challenge Outreach
+    - Work with restaurants downtown
+  - Research topics
+    - `Tania` - How can restaurants offer discounts?
+    - List of restaurants to reach out
+      - *Bear*
+      - *Mo's*
+      - *B&B*
+      - *Crush*
+      - *Konas*
+      - *Kinders*
+      - *Bucks*
+      - *B-Street*
+      - *Brooklyn Bagels*
+      - *T-bar*
+      - *Celestino's*
+      - *Ike's*
+- **Respond to Tabling Times!**
+  - Look in ***Slack***
