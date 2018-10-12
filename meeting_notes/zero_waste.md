@@ -59,3 +59,18 @@
   - Expect a doodle coming through Slack regarding tabling times
   - Think of how to educate people about the benefits of zero waste
 
+***
+
+## Second Meeting
+- **Campus Sustainability Day**
+  - ***Tuesday, October 16th***
+  - 10am - 2pm
+  - Engage the students with a game/activity
+  - What should we do?
+    - Tie in with AS Sustainability's mason jar of trash
+    - Competition to see what can be reused from trash
+    - Can you identify what items from the BMU can be recycled?
+      - Four bins
+      - Trash items from the BMU
+      - Where do they go?
+- 
