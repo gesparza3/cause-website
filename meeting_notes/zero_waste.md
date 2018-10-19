@@ -94,3 +94,31 @@
       - *Ike's*
 - **Respond to Tabling Times!**
   - Look in ***Slack***
+
+***
+
+## Third Meeting
+- **Sustainability day**
+  - Success!
+  - Baked goods are enticing
+- **Downtown Waste Ideas**
+  - Bars won't provide straws on certain nights
+  - Promote sustainability at Chico while providing revenue for local business
+  - What can we do with wasted food at restaurants?
+  - We've emailed the downtown business associtation
+- **Sustainability Fund Allocation Committee(SFAC)**
+  - Chance to get funds for a large project
+  - Propose a project and impress the committee
+  - Ideas
+    - Exhibit in the Chico State Anthropology mueseum
+      - Life cycle of plastic
+    - Lower Bidwell Cleanup
+      - Offer prizes
+      - Solicit for donations
+- **Pitch to different classes/organizations**
+  - Target different classes/majors
+  - Push for sustainable default project ideas
+- **Things to do**
+  - Generate ideas for SFAC proposal
+  - Message in Slack for tabling times
+  - Be ready for a response from the downtown business associtation
